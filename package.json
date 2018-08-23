@@ -1,6 +1,6 @@
 {
   "name": "gulp-domain-replace",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A domain replace asset url plugin for gulp",
   "keywords": [
     "gulpplugin"
